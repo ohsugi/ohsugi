@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm ohsugi! 👋
 
-<!--
-**ohsugi/ohsugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with a keen interest in open-source projects and community collaboration. I love exploring new technologies and continuously improving my skills.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** JavaScript, TypeScript, Python, Java
+- **Frameworks:** React, Node.js, Express, Spring Boot
+- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Cloud:** AWS, Azure, GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Rust
+- GraphQL
+- Machine Learning
+
+## 📫 How to reach me
+- **Email:** [ohsugi@example.com](mailto:ohsugi@example.com)
+- **LinkedIn:** [ohsugi](https://www.linkedin.com/in/ohsugi/)
+- **Twitter:** [@ohsugi_dev](https://twitter.com/ohsugi_dev)
+
+## 💬 Let's Connect!
+Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about tech!
