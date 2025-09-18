@@ -1,6 +1,12 @@
 # Hi there, I'm ohsugi! 👋
 
-I'm a passionate developer with a keen interest in open-source projects and community collaboration. I love exploring new technologies and continuously improving my skills.
+## 🚀 About Me
+
+Tech lead of the Digital Human team at NTT DATA’s Innovation Center, passionate about blending cutting-edge AI, cloud, and creative technologies to bring digital humans to life.
+
+> “If you love something, you will become good at it.”
+
+---
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript, TypeScript, Dart, Python, Java, Rust
@@ -10,10 +16,30 @@ I'm a passionate developer with a keen interest in open-source projects and comm
 - **BlockChain:** Solana
 - **GenAI:** OpenAI, Gemini
 
-## 📫 How to reach me
-- **LinkedIn:** [ohsugi](https://www.linkedin.com/in/ohsugi/)
-- **Twitter:** [@ohsugi](https://x.com/ohsugi)
-- **Facebook:** [naoki.ohsugi.1](https://www.facebook.com/naoki.ohsugi.1)
+---
 
-## 💬 Let's Connect!
-Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about tech!
+## 📫 How to reach me
+- [![X](https://img.shields.io/badge/X-1da1f2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ohsugi)
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/naoki.ohsugi.1/)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naoki.ohsugi)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ohsugi/)
+
+---
+
+## 🎲 Outside of Coding
+
+- Jogging 👟
+- Coffee ☕
+- Strategy games ♟️
+- Playing with my two little kids 👨‍👧‍👦
+
+---
+
+## 📊 GitHub Stats
+
+![ohsugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohsugi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohsugi&layout=compact&theme=tokyonight)
+
+---
+
+Thanks for stopping by!
