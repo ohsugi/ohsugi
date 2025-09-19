@@ -6,7 +6,8 @@ Tech lead of the Digital Human team at NTT DATA’s Innovation Center, passionat
 
 > “If you love something, you will become good at it.”
 
----
+![ohsugi's GitHub stats](https://github-readme-stats-five-alpha-42.vercel.app/api?username=ohsugi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-five-alpha-42.vercel.app/api/top-langs/?username=ohsugi&layout=compact&theme=tokyonight)
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript, TypeScript, Dart, Python, Java, Rust
@@ -16,15 +17,11 @@ Tech lead of the Digital Human team at NTT DATA’s Innovation Center, passionat
 - **BlockChain:** Solana
 - **GenAI:** OpenAI, Gemini
 
----
-
 ## 📫 How to reach me
 - [![X](https://img.shields.io/badge/X-1da1f2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ohsugi)
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/naoki.ohsugi.1/)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naoki.ohsugi)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ohsugi/)
-
----
 
 ## 🎲 Outside of Coding
 
@@ -32,14 +29,5 @@ Tech lead of the Digital Human team at NTT DATA’s Innovation Center, passionat
 - Coffee ☕
 - Strategy games ♟️
 - Playing with my two little kids 👨‍👧‍👦
-
----
-
-## 📊 GitHub Stats
-
-![ohsugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohsugi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohsugi&layout=compact&theme=tokyonight)
-
----
 
 Thanks for stopping by!
