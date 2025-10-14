@@ -1,4 +1,4 @@
-# Hi there, I'm ohsugi! 👋
+# Hi there, I'm Naoki! 👋
 
 ## 🚀 About Me
 
