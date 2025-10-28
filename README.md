@@ -10,12 +10,14 @@ Tech lead of the Digital Human team at NTT DATA’s Innovation Center, passionat
 ![Top Langs](https://github-readme-stats-five-alpha-42.vercel.app/api/top-langs/?username=ohsugi&layout=compact&theme=tokyonight)
 
 ## 🔧 Technologies & Tools
-- **Languages:** JavaScript, TypeScript, Dart, Python, Java, Rust
-- **Frameworks:** Flutter, Node.js, Anchor
+- **Languages:** JavaScript, TypeScript, Dart/Flutter, Python, Java, Rust
+- **Cloud Platforms:** Google Cloud Platform, Firebase, MS Azure
+- **NoSQL:** Firestore, Azure Cosmos DB
+- **AI:** OpenAI, Gemini, Azure AI Foundry
+- **BlockChain:** Solana/Anchor
+- **3D Modeling:** Reallusion Character Creator, iClone, Cartoon Animator
+- **Cntents Generation:** Stable Diffusion, Runway
 - **Tools:** Git, Bulma
-- **Cloud:** GCP, Firebase
-- **BlockChain:** Solana
-- **GenAI:** OpenAI, Gemini
 
 ## 📫 How to reach me
 - [![X](https://img.shields.io/badge/X-1da1f2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ohsugi)
@@ -28,6 +30,7 @@ Tech lead of the Digital Human team at NTT DATA’s Innovation Center, passionat
 - Jogging 👟
 - Coffee ☕
 - Strategy games ♟️
-- Playing with my two little kids 👨‍👧‍👦
+- Camping 🏕️
+- Playing board games with family 👨‍👧‍👦
 
 Thanks for stopping by!
